@@ -1,0 +1,22 @@
+{
+  "politics": [
+    "government",
+    "military",
+    "war"
+  ],
+  "sports": [
+    "basketball",
+    "football",
+    "athletes"
+  ],
+  "business": [
+    "stocks",
+    "markets",
+    "industries"
+  ],
+  "technology": [
+    "computer",
+    "telescope",
+    "software"
+  ]
+}

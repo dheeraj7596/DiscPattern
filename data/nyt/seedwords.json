@@ -1,0 +1,205 @@
+{
+  "politics": [
+    "democrats",
+    "president",
+    "senate",
+    "election",
+    "democratic"
+  ],
+  "federal_budget": [
+    "cuts",
+    "budget",
+    "debt",
+    "tax",
+    "cuts"
+  ],
+  "gun_control": [
+    "guns",
+    "weapons",
+    "firearms",
+    "magazines",
+    "weapons"
+  ],
+  "law_enforcement": [
+    "death",
+    "judge",
+    "prosecutors",
+    "lawyers",
+    "prosecutors"
+  ],
+  "gay_rights": [
+    "gay",
+    "marriage",
+    "same-sex",
+    "lesbian",
+    "scouts$0"
+  ],
+  "energy_companies": [
+    "energy",
+    "oil",
+    "gas",
+    "coal",
+    "electric"
+  ],
+  "environment": [
+    "climate",
+    "fish",
+    "wildlife",
+    "dioxide",
+    "carbon"
+  ],
+  "immigration": [
+    "immigration",
+    "immigrants",
+    "citizenship",
+    "border",
+    "immigrant"
+  ],
+  "military": [
+    "military",
+    "pentagon",
+    "army",
+    "defense$1",
+    "marine"
+  ],
+  "cosmos": [
+    "spacecraft",
+    "sun",
+    "kepler",
+    "planets",
+    "earth"
+  ],
+  "the_affordable_care_act": [
+    "medicaid",
+    "coverage",
+    "insurance",
+    "health",
+    "care$0"
+  ],
+  "business": [
+    "sales",
+    "batteries",
+    "airlines",
+    "boeing",
+    "battery"
+  ],
+  "stocks_and_bonds": [
+    "earnings",
+    "stocks",
+    "investors",
+    "stock",
+    "earnings"
+  ],
+  "international_business": [
+    "bank",
+    "european",
+    "china",
+    "chinese",
+    "euro"
+  ],
+  "abortion": [
+    "abortion",
+    "anti-abortion",
+    "pregnancy",
+    "abortions",
+    "parenthood"
+  ],
+  "science": [
+    "science",
+    "research",
+    "university",
+    "researchers",
+    "brain"
+  ],
+  "music": [
+    "music",
+    "song",
+    "songs",
+    "album",
+    "band"
+  ],
+  "baseball": [
+    "baseball",
+    "hit",
+    "yankees",
+    "runs$0",
+    "run$1"
+  ],
+  "economy": [
+    "economy",
+    "economic",
+    "economist",
+    "sales",
+    "prices"
+  ],
+  "television": [
+    "episode",
+    "episodes",
+    "viewers",
+    "television",
+    "comedy"
+  ],
+  "golf": [
+    "golf",
+    "tour",
+    "holes$1",
+    "woods",
+    "pga"
+  ],
+  "tennis": [
+    "tennis",
+    "nadal",
+    "wimbledon",
+    "sharapova",
+    "murray"
+  ],
+  "hockey": [
+    "hockey",
+    "n.h.l.",
+    "puck",
+    "goals",
+    "rangers"
+  ],
+  "football": [
+    "football",
+    "n.f.l.",
+    "quarterback",
+    "yards",
+    "touchdown"
+  ],
+  "dance": [
+    "dance",
+    "ballet",
+    "theater",
+    "choreographer",
+    "dancing"
+  ],
+  "movies": [
+    "movies",
+    "films",
+    "film",
+    "director",
+    "cinema"
+  ],
+  "soccer": [
+    "soccer",
+    "manchester",
+    "bayern",
+    "chelsea",
+    "league"
+  ],
+  "surveillance": [
+    "surveillance",
+    "intelligence",
+    "snowden",
+    "n.s.a.",
+    "agency$1"
+  ],
+  "basketball": [
+    "basketball",
+    "heat$1",
+    "knicks",
+    "celtics",
+    "n.b.a."
+  ]
+}
