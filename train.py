@@ -123,7 +123,12 @@ if __name__ == "__main__":
     # test it on data
     # analyze the wrong predictions
 
-    base_path = "/Users/dheerajmekala/Work/DiscPattern/data/"
+    import os
+
+    os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+
+    base_path = "/data4/dheeraj/discpattern/"
+    # base_path = "/Users/dheerajmekala/Work/DiscPattern/data/"
     dataset = "agnews"
     data_path = base_path + dataset + "/"
 
